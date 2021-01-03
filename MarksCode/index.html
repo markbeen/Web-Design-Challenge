@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Bootstrap Visualization Dashboard</title>
+
+    <!-- Boostrap Stylesheet -->
+
+    <!-- I tried the bootstrap style sheet below but I wasn't working as expected -->
+    <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen"> -->
+
+    <!-- I grabbed the style sheet from the bootstrap site: -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" href="assets/css/styles.css" media="screen">
+
+    Define my own styles
+    <style>
+        .my-container {
+            border: 1px solid green 
+        }
+
+        .my-row {
+            border: 3px solid red ;
+            height: 200px 
+        }
+
+        .my-col {
+            border: 3px dotted blue
+        }
+    </style>
+
+  </head>
+
+
+  <body>
+      <div class="container my-container">
+        <div class="row my-row">
+            <div class="col">
+                Row1 Col1
+            </div>
+            <div class="col my-col">
+                Row 1 Col2
+            </div>
+        </div>
+        <div class="row my-row">
+            <div class="col my-col">
+                Row2 Col1
+            </div>
+        </div>
+
+      </div>
+
+
+  </body>
+
+  </html>
