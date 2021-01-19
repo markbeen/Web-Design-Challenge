@@ -11,6 +11,6 @@
 
 * My initial site deployments were flawed because of incorrect path references. This issue was easily remedied. 
 * When I first deployed the site to the GitHub repo, the implementation failed. I reminded myself how do deploy on GitHub by watching this [YouTube video](https://www.youtube.com/watch?v=BA_c3bGQXlQ).
-  * In short, one needs to move the *index.html* file to the directory of the repo. If, on your local machine, you created/edited the *index.html* page in a subdirectory, then you have to move *index.html* **and** all file dependents.
+  * In short, one needs to move the *index.html* file to the root directory of the repo. If, on your local machine, you created/edited the *index.html* page in a subdirectory, then you have to move *index.html* **and** all file dependents.
 
 
