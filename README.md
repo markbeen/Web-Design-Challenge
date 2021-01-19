@@ -5,7 +5,7 @@
 ##### My files were pushed to my GitHub repo *Web-Design-Challenge*. Here's a link to the deployed site: https://markbeen.github.io/Web-Design-Challenge/
 
 ##### Some notables regarding this exercise:
-* Much of the website uses Bootstrap. I found youtube videos describing the basics of Bootstrap by Academind very helpful ([*Bootstrap by Academind*](https://www.youtube.com/watch?v=7g8Gg2QVdeU){:target="_blank"}).
+* Much of the website uses Bootstrap. I found youtube videos describing the basics of Bootstrap by Academind very helpful ([*Bootstrap by Academind*](https://www.youtube.com/watch?v=7g8Gg2QVdeU)).
 
   * The *grid* and sizing the grid to accommodate different screens (i.e. phone vs monitor) are two important concepts.
 
@@ -14,6 +14,3 @@
   * In short, one needs to move the *index.html* file to the directory of the repo. If, on your local machine, you created/edited the *index.html* page in a subdirectory, then you have to move *index.html* **and** all file dependents.
 
 
-
-
-<a href="http://google.com/" target="_blank">Hello, world!</a>
