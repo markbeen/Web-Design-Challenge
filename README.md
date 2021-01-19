@@ -1,4 +1,7 @@
 ## Web-Design-Challenge
+#### Mark Beenhakker
+##### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ##### The aim of this exercise is to deploy an interactive website that displays relationships between latitude and weather. Four weather are evaluated: (1) temperature, (2) humidity, (3) cloudiness, and (4) wind speed.  
 
 
